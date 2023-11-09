@@ -1,0 +1,13 @@
+.goa-page-heading {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: left;
+}
+.goa-page-card-container {
+    background-color: white;
+    margin: 20px;
+    height: 150px;
+    width: 450px;
+}
+

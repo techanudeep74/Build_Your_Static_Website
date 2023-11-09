@@ -1,0 +1,75 @@
+.articles-home-page-bg-container {
+    background-color: #225db0;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 20px;
+    margin: 10px;
+}
+.articles-home-page-heading {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: normal;
+    text-align: left;
+}
+.articles-home-page-description {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
+.articles-home-page-cards-container {
+    height: 120px;
+    width: 170px;
+    border-radius: 12px;
+    background-color: white;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.articles-home-page-cards-image {
+    height: 50px;
+    width: 50px;
+}
+.articles-home-page-cards-name {
+    color: #1f2933;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+}
+.common-page-bg-container {
+    background-color: #225db0;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 20px;
+}
+.common-page-bg-heading {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+.common-page-list-style {
+    margin: 15px;
+    list-style-type:circle;
+}
+.common-page-list-options {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+.common-page-back-button {
+    height: 35px;
+    width: 95px;
+    background-color: transparent;
+    color: white;
+    border-radius: 0px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    font-size: 14px;
+}

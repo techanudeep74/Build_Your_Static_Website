@@ -1,0 +1,121 @@
+.podcast-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 35vh;
+    width: 100vw;
+    background-size: cover;
+    padding: 20px;
+}
+.img-heading {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: left;
+    color: white;
+}
+.podcast-cards-container {
+    padding: 25px;
+}
+.top-singers {
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+
+}
+.singer-img {
+    height: 95px;
+    width: 150px;
+    border-radius: 20px;
+    margin-right: 35px;
+}
+.singer-name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+.songs-playlist {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #5871a4;
+    margin-top: 3px;
+    margin-left: 40px;
+}
+.singer-bg-container {
+    background-color: #151765;
+    width: 100vw;
+    margin: 15px;
+    padding: 20px;
+}
+.singer-podcast-img {
+    height: 150px;
+    width: 150px;
+    margin-right: 15px;
+    border-radius: 20px;
+}
+.singer-podcast {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: left;
+}
+.singer-podcast-name {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+    font-weight: 700;
+    text-align: left;
+}
+.singer-podcast-playlist {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: left;
+}
+.text-styling {
+    margin-left: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11px;
+    font-weight: 700;
+}
+.playlist-container {
+    padding: 30px;
+    margin: 15px;
+}
+.movie-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+.movie-song-name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #151765;
+    text-align: left;
+}
+.movie-song-cast {
+    color: #5871a4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: left;
+}
+.songs-duration {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    text-align: left;
+}
+.back-button {
+    height: 35px;
+    width: 115px;
+    color: white;
+    background-color: #151765;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+    border-width: 1px;
+}

@@ -1,0 +1,93 @@
+.yoga-page-bg-color {
+    background-color: #ffedcb;
+    height: 100vh;
+    background-size: cover;
+}
+.yoga-page-bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    height: 77vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.yoga-page-container-heading {
+    color: #132d84;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 700;
+}
+.yoga-page-container-img {
+    height: 310px;
+    width: 210px;
+    margin-top: 200px; 
+    margin-left: 18px;
+}
+.yoga-page-footer-description {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 19px;
+}
+.yoga-page-footer-button {
+    height: 35px;
+    width: 110px;
+    background-color: #132d84;
+    color: #fad693;
+    border-radius: 8px;
+    font-size: 14px;
+    text-align: center;
+}
+.types-of-yoga-container {
+    background-color: #ffedcb;
+    height: 100vh;
+    background-size: cover;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.types-of-yoga-container-img {
+    height: 250px;
+    width: 170px;
+    margin-top: 10px;
+}
+.types-of-yoga-container-heading {
+    color: #132d84;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.types-of-yoga-card-container {
+    height: 150px;
+    width: 400px;
+    border-radius: 26px;
+    padding: 20px;
+    background-color: #ffe2ab;
+    margin-top: 10px;
+}
+.types-of-yoga-card-container-img {
+    height: 119px;
+    width: 100px;
+    margin-right: 8px;
+}
+.types-of-yoga-card-container-heading {
+    color: #132d84;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 600;
+}
+.types-of-yoga-card-container-description {
+    color: #253263;
+    font-family: Roboto;
+    font-size: 16px;
+}
+.yoga-page-back-button{
+    height: 38px;
+    width: 120px;
+    background-color: #132d84;
+    color: #ffe2ab;
+    border-radius: 8px;
+    font-size: 14px;
+    text-align: center;
+}

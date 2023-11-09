@@ -1,0 +1,240 @@
+.projects-home-page-container {
+    background-color: white;
+    padding: 20px;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.projects-home-page-img {
+    height: 250px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+.projects-home-page-heading {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #183b56;
+    margin-bottom: 5px;
+}
+.projects-home-page-description {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #616e7c;
+    margin-top: 5px;
+    text-align: center;
+}
+.projects-img {
+    height: 150px;
+    width: 190px;
+    border-radius: 26px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.adv-tech-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.adv-tech-card-container {
+    background-color: white;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    text-align: left;
+}
+.adv-tech-text-container {
+    margin: 20px;
+}
+.adv-tech-main-heading {
+    font-family: "Bree Serif";
+    font-size: 26px;
+    font-weight: 700;
+    color: #5752ab;
+}
+.adv-tech-description {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: normal;
+    color: #323f4b;
+}
+.adv-tech-learn-more {
+    background-color: white;
+    color: #171f46;
+    height: 30px;
+    width: 110px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.adv-tech-save-draft {
+    background-color: blue;
+    color: white;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.food-order-page-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    width: 100vh;
+    background-size: cover;
+}
+.happy-meals-card-container {
+    background-color: #f6c56e;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 30px;
+}
+.happy-meals-main-heading {
+    font-family: "Bree Serif";
+    font-size: 26px;
+    font-weight: 600;
+    text-align: left;
+    color: #323f4b;
+}
+.happy-meals-description {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    color: #323f4b;
+}
+.happy-meals-book-now-button {
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: white;
+    color: #323f4b;
+}
+.happy-meals-back-button {
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+.diwali-page-bg-container {
+    background-color: #e6f6ff;
+    height: 100vh;
+    background-size: cover;
+}
+.diwali-page-tag-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png');
+    height: 190px;
+    background-size: cover;
+    width: 100vw;
+    padding: 20px;
+    text-align: left;
+}
+.diwali-page-tag-heading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    color: white;
+    margin-bottom: 5px;
+    margin-top: 23px;
+    font-weight: normal;
+}
+.diwali-page-cards-container {
+    padding: 30px;
+}
+.diwali-item-cards {
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.diwali-item-img {
+    height: 50px;
+    width: 50px;
+}
+.diwali-item-name {
+    font-family: Roboto;
+    font-size: 13px;
+    color: #616e7c;
+    margin-bottom: 5px;
+}
+.diwali-item-amount {
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 700;
+    color: #323f4b;
+}
+.diwali-page-back-button {
+    height: 30px;
+    width: 95px;
+    border-radius: 10px;
+    border-width: 1px;
+    background-color: blue;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.news-page-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.news-page-card-container {
+    background-color: white;
+    padding: 25px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+.news-page-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: normal;
+    color: #7b8794;
+    text-align: left;
+}
+.news-page-main-heading {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: 500;
+    color: #323f4b;
+    text-align: left;
+}
+.news-page-description {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12px;
+    font-weight: normal;
+    color: #7b8794;
+    text-align: left;
+}
+.read-more-button {
+    background-color: #323f4b;
+    color: white;
+    height: 35px;
+    width: 110px;
+    border-radius: 5px;
+    border-width: 1px;
+    text-align: left;
+}
+.backbutton {
+    background-color: blue;
+    color: white;
+    height: 35px;
+    width: 70px;
+    border-radius: 5px;
+    border-width: 1px;
+    text-align: left;
+    text-align: center;
+}

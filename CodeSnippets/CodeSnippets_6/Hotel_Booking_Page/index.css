@@ -1,0 +1,49 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+    padding: 30px;
+}
+.card-container {
+    background-color: #000000e6;
+    height: 190px;
+    width: 500px;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: left;
+}
+.heading {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.description {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+.amount {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.book-now {
+    height: 30px;
+    width: 90px;
+    margin-top: 5px;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+}

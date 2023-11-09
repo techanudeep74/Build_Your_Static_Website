@@ -1,0 +1,36 @@
+.mobile-page-bg-container {
+    border-width: 5px;
+    border-style: solid;
+}
+.mobile-img {
+    width: 100vw;
+}
+
+.mobile-page-container {
+    text-align: center;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.mobile-page-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    color: #0a1f44;
+    text-align: left;
+}
+
+.mobile-page-list-container {
+    margin-top: 15px;
+}
+
+.mobile-page-description {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #707070;
+    text-align: left;
+}
+
+.unordered-list-type {
+    list-style-type: disc;
+}

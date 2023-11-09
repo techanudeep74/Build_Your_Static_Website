@@ -1,0 +1,113 @@
+.book-store-home-bg-container {
+    background-color: #1b1b1b;
+    padding: 30px;
+    height: 100vh;
+}
+.popular-books-heading {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 700px;
+    margin-bottom: 15px;
+}
+.wings-of-fire-card {
+    background-color: #e6f6ff;
+    height: 230px;
+    width: 450px;
+    border-radius: 26px;
+    margin-bottom: 15px;
+}
+.abdul-kalam-img {
+    height: 230px;
+    width: 150px;
+    margin-right: 15px;
+    border-top-left-radius: 26px;
+    border-bottom-left-radius: 26px;
+}
+.wings-of-fire-heading {
+    color: #183b56;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 15px;
+}
+.biography {
+    color: #06070d;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 8px;
+}
+.Author {
+    color: #183b56;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.recomend-books-heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 10px;
+}
+.recomend-book-section {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 15px;
+}
+.book-img {
+    height: 150px;
+    width: 100px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+.rec-books-heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+.rec-books-desc {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: #e4e7eb;
+}
+.fire-bg-container {
+    background-color: #1b1b1b;
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+.fire-body-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.profile-img {
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+}
+.detail-page-heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    margin-top: 10px;
+}
+.detail-page-desc {
+    color: #9aa5b1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-top: 8px;
+}
+.biography-desc {
+    color: #e4e7eb;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: left;
+    margin-top: 10px;
+}

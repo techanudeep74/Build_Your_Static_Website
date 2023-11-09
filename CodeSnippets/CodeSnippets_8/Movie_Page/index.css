@@ -1,0 +1,50 @@
+.movie-page-container {
+    background-color: #ff8348;
+    height: 100vh;
+    padding: 20px;
+}
+.movie-page-card-container {
+    height: 150px;
+    width: 450px;
+    border-radius: 20px;
+}
+.movie-page-head-content {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nemo-heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+.watch-movie-button {
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: white;
+    color: orange;
+    font-size: 14px;
+}
+.movie-page-description {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+.movie-page-similar-movies-heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+}
+.similar-video-content {
+    display: flex;
+    flex-direction: row;
+}
+.similar-movies-images {
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    margin-right: 10px;
+}

@@ -1,0 +1,46 @@
+.adv-tech-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.adv-tech-card-container {
+    background-color: white;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    text-align: left;
+}
+.adv-tech-text-container {
+    margin: 20px;
+}
+.main-heading {
+    font-family: "Bree Serif";
+    font-size: 26px;
+    font-weight: 700;
+    color: #5752ab;
+}
+.description {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: normal;
+    color: #323f4b;
+}
+.learn-more {
+    background-color: white;
+    color: #171f46;
+    height: 30px;
+    width: 110px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.save-draft {
+    background-color: #5752ab;
+    color: white;
+    height: 30px;
+    width: 110px;
+    border-radius: 5px;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-right: 10px;
+}

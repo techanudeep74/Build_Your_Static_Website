@@ -1,0 +1,99 @@
+.rahul-bio {
+    background-color: #fb4e71;
+    height: 22vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+.rahul-name {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.rahul-history {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.rahul-img {
+    height: 120px;
+    width: 110px;
+}
+
+.content-container {
+    background-color: #e6f6ff;
+    width: 100vw;
+    padding: 20px;
+}
+
+.ipl-records {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.record-card-container {
+    background-color: whitesmoke;
+    height: 150px;
+    width: 440px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: row;
+    margin-right: 10px;
+}
+.record-img {
+    height: 150px;
+    width: 150px;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+    margin-right: 10px;
+}
+.records-heading {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 8px;
+}
+.record-desc {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.videos-heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.videos-container {
+    display: flex;
+    flex-direction: row;
+}
+.rahul-series {
+    height: 120px;
+    width: 120px;
+    margin-right: 7px;
+    border-radius: 10px;
+}
+.video-content {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+    margin-left: 5px;
+}
+.view-more {
+    height: 40px;
+    width: 90px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 600;
+    border-width: solid 1px;
+    text-align: center;
+}
